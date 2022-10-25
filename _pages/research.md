@@ -44,5 +44,8 @@ text-align: justify}
   *Abstract:  We study how firms responded to a pure liquidity shock after the Chinese government started to pay its outstanding export tax rebates in 2004. Our analytical strategy relies on the interaction between the time variation in the national repayments and cross-sectional variation in firms’ pre-sample export share. The results show that the repayments increased cash flow, which encouraged firms to raise their R&D expenses and spending on executive perks. Compared with private firms, state-owned enterprises invested less in R&D, but spent more on executive perks. Our study is a step toward understanding the effect of the timing of tax-related actions.*
 
 ## Work in Progress
+*Haiyan Zhang, “Straw burning, UAV Patrol and PM2.5: Evidence from China.”
+*Fangwen Lu, Haiyan Zhang (Corresponding author), Ye’an Zhou, “Why Low-performance Students Refuse Help? The Role of Social Preference.” 
+
 
 
