@@ -15,7 +15,7 @@ I am a PhD candidate in Economics at Renmin University of China. I will be on th
 
 <!-- I received my PhD from xx in xx.-->
 
-My research interest is Field Experiment in Education.
+My research interest is field experiment in education.
 
 Email: [hyz0408@ruc.edu.cn](mailto:hyz0408@ruc.edu.cn)
 
