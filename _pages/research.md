@@ -27,6 +27,9 @@ text-align: justify}
  
    
 ***Production and Operations Management***, forthcoming-->
+##Accepted Papers
+*张海燕，汪德华. 《环境规制的收入效应：以秸秆禁烧为例》.《经济科学》已录用.
+
 
 ## Working Papers
 * Fangwen Lu, Haiyan Zhang, Ye'an Zhou, "Growing by Mentoring: the Effect of Mentoring Program on Mentors," 2022. (**Job Market Paper**) 
