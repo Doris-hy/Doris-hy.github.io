@@ -59,4 +59,4 @@ Service and leadership
 * Currently signed in to 43 different slack teams
 -->
 
-[Curriculum Vitae](https://Doris-hy.github.io/files/HAIYAN_ZHANG.pdf)
+[Curriculum Vitae](https://Doris-hy.github.io/files/HAIYAN ZHANG.pdf)
