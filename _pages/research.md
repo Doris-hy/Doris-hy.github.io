@@ -47,9 +47,9 @@ text-align: justify}
 
 ## Work in Progress
 * "Why Low-performance Students Refuse Help? The Role of Social Preference," with Fangwen Lu & Yean Zhou.
-3. "Straw burning, UAV Patrol and PM2.5: Evidence from China."
-4. "Revealing Stereotypes: Experimental Evidence from Employers," with Fangwen Lu & Bin Miao.
-5. "The Welfare Effects of Asking: Experimental Evidence from Volunteers," with Fangwen Lu & Bin Miao.
+* "Straw burning, UAV Patrol and PM2.5: Evidence from China."
+* "Revealing Stereotypes: Experimental Evidence from Employers," with Fangwen Lu & Bin Miao.
+* "The Welfare Effects of Asking: Experimental Evidence from Volunteers," with Fangwen Lu & Bin Miao.
 
 
 
